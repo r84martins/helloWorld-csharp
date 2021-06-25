@@ -17,7 +17,7 @@ namespace helloWorld
         public teste() { }
         public string test()
         {
-            return "Hello World";
+            return "Hello World!";
         }
         
     }
